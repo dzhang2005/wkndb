@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/wkndb/clientlibs"/>
+    <filter root="/apps/wkndb/components"/>
+    <filter root="/apps/wkndb/i18n"/>
+</workspaceFilter>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/wkndb" mode="merge"/>
+    <filter root="/content/wkndb" mode="merge"/>
+    <filter root="/content/dam/wkndb" mode="merge"/>
+    <filter root="/content/experience-fragments/wkndb" mode="merge"/>
+</workspaceFilter>
